@@ -63,8 +63,10 @@ print(result,unans)
 ## Output
 TRACER:
 ![image](https://github.com/sushiendar123/4.Execution_of_NetworkCommends/assets/169825800/dad45dcf-9915-46f5-901f-2bfd6b531ef2)
+
 CILENT:
 ![image](https://github.com/sushiendar123/4.Execution_of_NetworkCommends/assets/169825800/8a7d6442-7998-4ca4-aedc-0c65d0b9c700)
+
 SERVER:
 ![image](https://github.com/sushiendar123/4.Execution_of_NetworkCommends/assets/169825800/f238b529-15d3-46de-aca2-fa657d4b8a2b)
 ## Result
